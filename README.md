@@ -29,4 +29,4 @@ Most websites provide HTTP APIs to enable other developers to access their busin
 
 ---------------------------------------------------
 
-####Take away: To simplify APIs - operations and tasks.
+### Take away: To simplify APIs - operations and tasks.
